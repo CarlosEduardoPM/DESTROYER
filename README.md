@@ -107,3 +107,12 @@ This tool is intended for **authorized security testing only**. Do not use again
 ## 📄 License
 
 MIT
+
+---
+
+**Carlos Eduardo P. Meireles**
+
+Backend Developer | Cybersecurity Enthusiast
+
+📧 [carloseduardopmeireles@gmail.com](mailto:carloseduardopmeireles@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/carloseduardopmeireles/
